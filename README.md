@@ -26,4 +26,4 @@ You can view the live demo of the To-Do List application [here](https://ganesh-a
 
 1. **Clone this repository**:
    ```bash
-   
+   https://github.com/Ganesh-alt1807/todo-list.git
