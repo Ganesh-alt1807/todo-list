@@ -20,7 +20,7 @@ This is a simple To-Do List web application built using HTML, CSS, and JavaScrip
 
 ## Demo
 
-You can view the live demo of the To-Do List application [here]().
+You can view the live demo of the To-Do List application [here](https://ganesh-alt1807.github.io/todo-list/).
 
 ## How to Use
 
